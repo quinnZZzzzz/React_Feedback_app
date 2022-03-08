@@ -1,0 +1,14 @@
+Basic stuff 
+  Dynamic values and Lists in JSX
+    - {}
+    - map - <li key={}>
+
+  Conditional 
+    - &&
+
+
+  props is an object -- shorthand {}
+
+
+
+    
